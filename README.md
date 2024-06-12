@@ -1,5 +1,3 @@
-# PDF-Chatbot - README
-
 ## Overview
 Welcome to the PDF-Chatbot! This application is designed to help you get insights from your PDF documents through an interactive chat interface. Powered by the open-source Llama Index and HuggingFace models, this tool allows you to upload a PDF and ask questions about its content, providing accurate and context-aware responses.
 
