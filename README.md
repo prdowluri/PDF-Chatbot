@@ -49,7 +49,3 @@ This project is open-source and licensed under the MIT License.
 
 ## Contact
 For any inquiries or support, reach out to [Prudhvi Raj Dowluri](https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/).
-
----
-
-Thank you for using the PDF Assistant! We hope it makes interacting with your documents easier and more efficient."# PDF-Chatbot" 
