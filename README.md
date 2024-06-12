@@ -27,7 +27,7 @@ Welcome to the PDF-Chatbot! This application is designed to help you get insight
 
 ## Usage
 
-Visit the project's website : [PDF-Chatbot](/https://huggingface.co/spaces/prudhvirajdowluri/PDF-Chatbot)
+Visit the project's website : [PDF-Chatbot](https://huggingface.co/spaces/prudhvirajdowluri/PDF-Chatbot)
 
 1. **Upload a PDF**
    - Click on the "Upload your PDF and Click Submit" button in the sidebar.
